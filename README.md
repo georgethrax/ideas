@@ -19,6 +19,6 @@
  
  Metric Leaning with only one class information. Is that learnable? No dissimilarity set.
  
- Triplet. Knowledge-Graph? S&J [Schultz and Joachims, 2003]
+ Triplet. Knowledge-Graph? S&J [Schultz and Joachims, 2003]. SVM??
  
  "Robust" Metric Learning? Robust Distance Metric Learning with Auxiliary Knowledge, IJCAI 2009
