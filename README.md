@@ -18,4 +18,7 @@
  Active Learning and Semi-Supervised Learning w.r.t Metric Learning. "littel side information" and "much side information" ?
  
  Metric Leaning with only one class information. Is that learnable? No dissimilarity set.
-
+ 
+ Triplet. Knowledge-Graph? S&J [Schultz and Joachims, 2003]
+ 
+ "Robust" Metric Learning? Robust Distance Metric Learning with Auxiliary Knowledge, IJCAI 2009
