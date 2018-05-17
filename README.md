@@ -16,4 +16,6 @@
  SVDD with Metric Learning MMC [Xing et al., 2002]https://papers.nips.cc/paper/2164-distance-metric-learning-with-application-to-clustering-with-side-information.pdf. "dissimilar" and "outter hypersphere". Notice: Paper is different from http://researchers.lille.inria.fr/abellet/talks/metric_learning_tutorial_CIL.pdf Page. 30.
  
  Active Learning and Semi-Supervised Learning w.r.t Metric Learning. "littel side information" and "much side information" ?
+ 
+ Metric Leaning with only one class information. Is that learnable? No dissimilarity set.
 
